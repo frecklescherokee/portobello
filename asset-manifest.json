@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portobello/static/css/main.df0af4f0.chunk.css",
+    "main.js": "/portobello/static/js/main.5384f560.chunk.js",
+    "main.js.map": "/portobello/static/js/main.5384f560.chunk.js.map",
+    "runtime-main.js": "/portobello/static/js/runtime-main.9d4faf43.js",
+    "runtime-main.js.map": "/portobello/static/js/runtime-main.9d4faf43.js.map",
+    "static/js/2.a5a2a15e.chunk.js": "/portobello/static/js/2.a5a2a15e.chunk.js",
+    "static/js/2.a5a2a15e.chunk.js.map": "/portobello/static/js/2.a5a2a15e.chunk.js.map",
+    "static/js/3.54cfe86b.chunk.js": "/portobello/static/js/3.54cfe86b.chunk.js",
+    "static/js/3.54cfe86b.chunk.js.map": "/portobello/static/js/3.54cfe86b.chunk.js.map",
+    "index.html": "/portobello/index.html",
+    "static/css/main.df0af4f0.chunk.css.map": "/portobello/static/css/main.df0af4f0.chunk.css.map",
+    "static/js/2.a5a2a15e.chunk.js.LICENSE.txt": "/portobello/static/js/2.a5a2a15e.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/portobello/static/media/me.0cb13fda.png",
+    "static/media/music-line.png": "/portobello/static/media/music-line.c2128012.png",
+    "static/media/recipedia.png": "/portobello/static/media/recipedia.1bed65fd.png",
+    "static/media/run-buddy.png": "/portobello/static/media/run-buddy.a0ff30b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d4faf43.js",
+    "static/js/2.a5a2a15e.chunk.js",
+    "static/css/main.df0af4f0.chunk.css",
+    "static/js/main.5384f560.chunk.js"
+  ]
+}
