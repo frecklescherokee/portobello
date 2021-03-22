@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Music Line",
+    "technologies": ["Node.js", "Express.js", "Sequelize", "Handlebars"],
+    "description": "An e-commerce site dedicated to selling instruments of all types",
+    "link": "https://guarded-dawn-15470.herokuapp.com/",
+    "screenshot": "music-line.png"
+  },
+  {
+    "name": "Run Buddy",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "description": "A run tracking software front end where you can sign up for buddies or coaches for running",
+    "link": "https://frecklescherokee.github.io/run-buddy/",
+    "screenshot": "run-buddy.png"
+  },
+  {
+    "name": "Recipedia",
+    "technologies": ["Node.js", "Mysql2", "Inquirer.js"],
+    "description": "A website that lets you search for and save recipes of any type.",
+    "link": "https://frecklescherokee.github.io/recipedia/",
+    "screenshot": "recipedia.png"
+  }
+]
