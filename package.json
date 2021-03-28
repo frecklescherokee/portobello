@@ -3,7 +3,7 @@
   "homepage": "https://frecklescherokee.github.io/portobello/",
   "version": "0.1.0",
   "private": true,
-  "main": "public/index.html",
+  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
