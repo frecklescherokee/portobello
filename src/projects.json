@@ -19,5 +19,12 @@
     "description": "A website that lets you search for and save recipes of any type.",
     "link": "https://frecklescherokee.github.io/recipedia/",
     "screenshot": "recipedia.png"
+  },
+  {
+    "name": "Wedding.com",
+    "technologies": ["Node.js", "MongoDB", "Express.js", "React", "GraphQL"],
+    "description": "A website to help keep track of wedding guests and their meal choices.",
+    "link": "https://wedding-spot.herokuapp.com/",
+    "screenshot": "wedding.png"
   }
 ]
